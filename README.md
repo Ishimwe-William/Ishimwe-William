@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Ishimwe-William
-- 👀 I’m interested in Java especially Java Spring Boot framework
-- 🌱 I’m currently learning Web Technology in my final undergraduate year
-- 💞️ I’m looking to collaborate on different projects related to Spring Boot
+- 👀 I’m interested in Java (Spring Boot), Django Rest Framework, React and React Native 
+- 🌱 I’m focused on web development and mobile apps development 
+- 💞️ I’m looking to collaborate on different projects related to different fields 
