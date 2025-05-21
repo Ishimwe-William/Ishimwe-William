@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ishimwe-William
-- 👀 I’m interested in Java (Spring Boot), Django Rest Framework, React and React Native 
+- 👋 Hi, I’m @Ishimwe-William [certified React Native Developer]
+- 👀 I’m interested in Mobile App Development, Java (Spring Boot), Django Rest Framework, and React 
 - 🌱 I’m focused on web development and mobile apps development 
 - 💞️ I’m looking to collaborate on different projects related to different fields 
